@@ -1,44 +1,120 @@
 [![MasterHead](https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Adem Haj Boubaker</h1>
-<h3 align="center">A passionate Data enginner</h3>
+<h3 align="center">🚀 Data Scientist | Big Data & AI Enthusiast | Python & ML Developer</h3>
+
 
  
-<img align="center" alt="Coding" width="1000" height="600" src="[https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966)">
+<img align="center" alt="Coding" width="1000" height="600" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adem-HB" alt="Adem-HB" /></a> </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Adem-HB&label=Profile%20views&color=0e75b6&style=flat" alt="Adem-HB" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning , PowerBi, ETL**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning , PowerBi, ETL**
 
-- 💬 Ask me about **python anaconda , C**
+- 💬 Ask me about **Python, C, Data Science, Machine Learning, ETL pipelines**
 
 - 📫 How to reach me **hajboubaker.pro@gmail.com**
 
+## 🧠 About Me
+
+- 🎓 Currently pursuing a MBA in Big Data & Artificial Intelligence  
+- 🧪 Passionate about building data-driven solutions that solve real-world problems  
+- 🛠️ Currently working on image annotation, statistical analysis, and AI models  
+- 🗂️ Looking for full-time opportunities in Data Science (starting Sept 2025)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/adem hb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adem hb" height="30" width="40" /></a>
-<a href="https://twitter.com/adem haj boubaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adem haj boubaker" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adem haj boubaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adem haj boubaker" height="30" width="40" /></a>
-<a href="https://kaggle.com/adem haj boubaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adem haj boubaker" height="30" width="40" /></a>
-<a href="https://fb.com/adem hb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adem hb" height="30" width="40" /></a>
-<a href="https://discord.gg/demdemdehauteseine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="demdemdehauteseine" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adem-haj-boubaker/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adem haj boubaker" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ademhajboubaker" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adem haj boubaker" height="30" width="40" /></a>
 </p>
 
-[![HitCount](https://hits.dwyl.com/Adem-HB/Adem-HB.svg?style=flat-square)](http://hits.dwyl.com/Adem-HB/Adem-HB)
 <br>
-<img align="left" src="https://komarev.com/ghpvc/?username=Adem-HB&label=Profile%20views&color=0e75b6&style=flat" alt="Adem-HB" /> 
+<h3>Langages de Programmation</h3>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40" />
+  </a>
+</div>
+
+<!-- Machine Learning & Deep Learning -->
+<h3>Machine Learning & Deep Learning</h3>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <!-- Icônes représentatives pour les concepts -->
+  <a href="https://arxiv.org/abs/1512.03385" target="_blank" rel="noreferrer" title="ResNet">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/ResNet.png" alt="ResNet" width="40" height="40" />
+  </a>
+  <a href="https://scikit-learn.org/stable/modules/generated/sklearn.svm.OneClassSVM.html" target="_blank" rel="noreferrer" title="One-Class SVM">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SVM" width="40" height="40" />
+  </a>
+  <a href="https://github.com/ultralytics/yolov5" target="_blank" rel="noreferrer" title="YOLO">
+    <img src="https://github.com/ultralytics/assets/raw/main/logo/logo.svg" alt="YOLO" width="40" height="40" />
+  </a>
+</div>
+
+<!-- Bases de Données -->
+<h3>Bases de Données</h3>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
+    <img src="[https://www.vectorlogo.zone/logos/microsoft_sql/microsoft_sql-icon.svg](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)" alt="SQL Server" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/nosql-explained" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="NoSQL" width="40" height="40" />
+  </a>
+</div>
+
+<!-- ETL -->
+<h3>ETL</h3>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.talend.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="Talend" width="40" height="40" />
+  </a>
+  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40" />
+  </a>
+</div>
+
+<!-- Analyse de Données & Visualisation -->
+<h3>Analyse de Données & Visualisation</h3>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
+  </a>
+</div>
+
+<!-- Méthodologie Agile -->
+<h3>Méthodologie Agile</h3>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40" />
+  </a>
+ 
+</div>
+
+<!-- Collaboration de Projet -->
+<h3>Collaboration de Projet</h3>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" />
+  </a>
+</div>
 
 <br>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adem-HB&show_icons=true&locale=en" alt="Adem-HB" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adem-HB" alt="Adem-HB" />
+</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Adem-HB&show_icons=true&locale=en" alt="Adem-HB" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Adem-HB" alt="Adem-HB" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adem-HB&show_icons=true&locale=en&layout=compact" alt="Adem-HB" /></p>
