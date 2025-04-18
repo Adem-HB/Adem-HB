@@ -36,10 +36,10 @@
 <h3>Langages de Programmation</h3>
 <div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="60" height="60" />
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="60" height="60" />
   </a>
 </div>
 
@@ -47,14 +47,12 @@
 <h3>Machine Learning & Deep Learning</h3>
 <div style="display: flex; gap: 15px; align-items: center;">
   <!-- Icônes représentatives pour les concepts -->
-  <a href="https://arxiv.org/abs/1512.03385" target="_blank" rel="noreferrer" title="ResNet">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/ResNet.png" alt="ResNet" width="40" height="40" />
-  </a>
+  
   <a href="https://scikit-learn.org/stable/modules/generated/sklearn.svm.OneClassSVM.html" target="_blank" rel="noreferrer" title="One-Class SVM">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SVM" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SVM" width="60" height="60" />
   </a>
-  <a href="https://github.com/ultralytics/yolov5" target="_blank" rel="noreferrer" title="YOLO">
-    <img src="https://github.com/ultralytics/assets/raw/main/logo/logo.svg" alt="YOLO" width="40" height="40" />
+  <a href="https://github.com/ultralytics/yolov10" target="_blank" rel="noreferrer" title="YOLO">
+    <img src="https://bimi.entrust.net/ultralytics.com/logo.svg" alt="Ultalytics" width="40" ="40" />
   </a>
 </div>
 
@@ -62,10 +60,10 @@
 <h3>Bases de Données</h3>
 <div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
-    <img src="[https://www.vectorlogo.zone/logos/microsoft_sql/microsoft_sql-icon.svg](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)" alt="SQL Server" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="SQL Server" width="60" height="60" />
   </a>
   <a href="https://www.mongodb.com/nosql-explained" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="NoSQL" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="NoSQL" width="60" height="60" />
   </a>
 </div>
 
@@ -73,10 +71,10 @@
 <h3>ETL</h3>
 <div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.talend.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="Talend" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="Talend" width="60" height="60" />
   </a>
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="60" height="60" />
   </a>
 </div>
 
@@ -84,7 +82,7 @@
 <h3>Analyse de Données & Visualisation</h3>
 <div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="60" height="60" />
   </a>
 </div>
 
@@ -92,7 +90,7 @@
 <h3>Méthodologie Agile</h3>
 <div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="60" height="60" />
   </a>
  
 </div>
@@ -101,10 +99,10 @@
 <h3>Collaboration de Projet</h3>
 <div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" />
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="60" height="60" />
   </a>
 </div>
 
