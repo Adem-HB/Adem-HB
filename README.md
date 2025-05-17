@@ -8,7 +8,7 @@
 <img align="center" alt="Coding" width="1000" height="600" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adem-HB" alt="Adem-HB" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adem-HB&title=-Issues,-Reviews" alt="Adem-HB" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adem-HB&label=Profile%20views&color=0e75b6&style=flat" alt="Adem-HB" /> </p>
 
@@ -22,8 +22,7 @@
 
 - 🎓 Currently pursuing a MBA in Big Data & Artificial Intelligence  
 - 🧪 Passionate about building data-driven solutions that solve real-world problems  
-- 🛠️ Currently working on image annotation, statistical analysis, and AI models  
-- 🗂️ Looking for full-time opportunities in Data Science (starting Sept 2025)
+- 🛠️ Currently working on data orchestration, statistical analysis, and AI models  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
