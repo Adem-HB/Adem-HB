@@ -12,9 +12,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adem-HB&label=Profile%20views&color=0e75b6&style=flat" alt="Adem-HB" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning , PowerBi, ETL**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning , PowerBi, Python**
 
-- 💬 Ask me about **Python, C, Data Science, Machine Learning, ETL pipelines**
+- 💬 Ask me about **Python, Deep Learning, ETL pipelines**
 
 - 📫 How to reach me **hajboubaker.pro@gmail.com**
 
