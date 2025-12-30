@@ -8,8 +8,6 @@
 <img align="center" alt="Coding" width="1000" height="600" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adem-HB&title=-Issues,-Reviews&row=2&column=3" alt="Adem-HB" /></a> </p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adem-HB&label=Profile%20views&color=0e75b6&style=flat" alt="Adem-HB" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning , PowerBi, Python**
@@ -106,12 +104,3 @@
 </div>
 
 <br>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adem-HB&show_icons=true&locale=en" alt="Adem-HB" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adem-HB" alt="Adem-HB" />
-</p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adem-HB&show_icons=true&locale=en&layout=compact" alt="Adem-HB" /></p>
